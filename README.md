@@ -9,7 +9,7 @@ Self: go/ricc-gh-sessions
 ## Articles
 
 * Medium Blog: https://medium.com/@palladiusbonton/
-* [Vodafone: A DevOps approach to AI/ML through cloud-native CI/CD pipelines](https://cloud.google.com/blog/products/devops-sre/how-vodafone-uses-cicd-to-speed-up-ml-pipelines)
+* [Vodafone: A DevOps approach to AI/ML through cloud-native CI/CD pipelines](https://cloud.google.com/blog/products/devops-sre/how-vodafone-uses-cicd-to-speed-up-ml-pipelines) #MLOps 
 
 
 ## Sessions 
