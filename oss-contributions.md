@@ -1,7 +1,7 @@
 
-I recently started contributing to Langchain.rb to add Vertex AI Support.
+## LangchainRB
 
-* https://github.com/andreibondarev/langchainrb
+I recently started contributing to [Langchain.rb](https://github.com/andreibondarev/langchainrb) to add Vertex AI Support.
 
 Some PRs (drafted by me, perfected by good @andreibondarev):
 
