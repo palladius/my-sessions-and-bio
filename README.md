@@ -2,9 +2,9 @@
 
 An increasing trail of articles, sessions, demos, and so on.
 
-Self: go/ricc-gh-sessions / 
+Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 
-* [Riccardo Carlesso on Developer Advocate Google page](https://cloud.google.com/developers/advocates/riccardo-carlesso)
+* [Google Cloud - Advocacy](https://cloud.google.com/developers/advocates/riccardo-carlesso).
 * [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
 * [Twitter](https://twitter.com/palladius)
 * [github](https://github.com/palladius)
@@ -22,6 +22,10 @@ In Google I specialize on:
 
 * SRE (Site reliability Engineering)
 * How Google does Software Development, Culture, Teams, Operations.
+* GenAI (new!)
+* Ruby
+* Pulumi
+* GCP foundations (Infra: GCE, "landing zones") and all the experience I matured in 7 years of Professional Services with big customers in DACH.
 
 Code proficiency:
 
@@ -35,13 +39,13 @@ Code proficiency:
 
 Medium ([main page](https://medium.com/@palladiusbonton/) - RSS feed) Blog: 
 
-* 2023-12-12 [TBD] Invoke Gemini via bash! (coming soon!)
-* [Migrate GCP projects across organizations, the gcloud way](https://medium.com/google-cloud/how-to-migrate-projects-across-organizations-c7e254ab90af?source=rss-b5293b96912f------2)
+* 2023-12-12 **TBD** "Hey Gemini, explain me these pictures - in bash 🧑🏽‍💻" (coming soon!)
 * 2023-11-20 [Hey Bard, write a responsive Javascript Search Engine app for me..](https://medium.com/@palladiusbonton/hey-bard-write-a-responsive-javascript-search-engine-app-for-me-b2585e55385e)
 * 2023-11-16 [Automated insights on Medium articles with GenAI and Ruby!
 ](https://blog.devops.dev/parse-medium-articles-with-genai-and-add-some-fun-02fe9d30475a) #GenAI #Medium #Ruby
-* 2022-MM-DD [My Mac\u2019s battery on Google Cloud Monitoring \u2014 with SMS if its low](https://medium.com/google-cloud/my-macs-battery-on-google-cloud-monitoring-with-sms-if-its-low-a1ccd70485fe?source=rss-b5293b96912f------2)
-* 2022-02-13 [Canary Deployment on GCP with Cloud Deploy](https://medium.com/google-cloud/draft-canarying-on-gcp-with-cloud-deploy-91b3e4d0ee9a) #cicd #cloud_deploy #cloud_build #canary
+* 2022-MM-DD [My Mac’s battery🔋 on Google Cloud Monitoring — send SMS if low 🪫](https://medium.com/google-cloud/my-macs-battery-on-google-cloud-monitoring-with-sms-if-its-low-a1ccd70485fe?source=rss-b5293b96912f------2)
+* 2023-04-18 [Migrate ☁️ GCP projects across organizations, the gcloud way](https://medium.com/google-cloud/how-to-migrate-projects-across-organizations-c7e254ab90af?source=rss-b5293b96912f------2)
+* 2022-02-13 [🐤 Canary Deployment on GCP with Cloud Deploy](https://medium.com/google-cloud/draft-canarying-on-gcp-with-cloud-deploy-91b3e4d0ee9a) #cicd #cloud_deploy #cloud_build #canary This is possibly my longest and most complex demo (took me six months to finalize!) - [video](https://www.youtube.com/watch?v=0GfV5iMGG64) - [code](https://github.com/palladius/clouddeploy-platinum-path) - [step by step guide](https://github.com/palladius/clouddeploy-platinum-path/blob/main/step-by-step-guide.md)
 * 2022  [Setting a \u2605 Cloud Build trigger with Pulumi in  Python](https://medium.com/google-cloud/setting-cloudbuild-with-pulumi-in-python-330e8b54b2cf)
 
 
