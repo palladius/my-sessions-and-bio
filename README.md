@@ -54,6 +54,7 @@ Videos:
 Traveling around the world (..) and delivering sessions on SRE, How Google does Software Development, ..
 
 * 2023-11-30 
+* 2023-09-DD "George UX Conf": [Reimagining customer services with GenAI and multi-modal interaction](https://www.youtube.com/watch?v=WRNncVe5yJQ) (Erste Campus, Vienna, Austria) #UX #GenAI . Had ~300 people in the room and ~1500 remotely!
 
 ## Thanks
 
