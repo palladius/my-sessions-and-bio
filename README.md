@@ -18,11 +18,15 @@ Social enthusiastic SW Eng. Loves: travels (who doesn't?), maths, piano, cooking
 ## Areas of expertise
 
 I've been in Operations for 20 years, as a Network Engineer (working in NOC).
+In Google I specialize on:
+
+* SRE (Site reliability Engineering)
+* How Google does Software Development, Culture, Teams, Operations.
 
 Code proficiency:
 
 5. (AWESOME) Bash
-4. (GOOD) Ruby
+4. (GOOD) **Ruby**
 3. (AVERAGE) Python, Pulumi (in Python)
 2. (LOW) C, C++, Java, Go, Perl, PHP, Prolog, Terraform
 1. (BAD) Javascript/Typescript
@@ -34,6 +38,8 @@ Medium ([main page](https://medium.com/@palladiusbonton/) - RSS feed) Blog:
 * 2023-12-12 [TBD] Invoke Gemini via bash! (coming soon!)
 * [Migrate GCP projects across organizations, the gcloud way](https://medium.com/google-cloud/how-to-migrate-projects-across-organizations-c7e254ab90af?source=rss-b5293b96912f------2)
 * 2023-11-20 [Hey Bard, write a responsive Javascript Search Engine app for me..](https://medium.com/@palladiusbonton/hey-bard-write-a-responsive-javascript-search-engine-app-for-me-b2585e55385e)
+* 2023-11-16 [Automated insights on Medium articles with GenAI and Ruby!
+](https://blog.devops.dev/parse-medium-articles-with-genai-and-add-some-fun-02fe9d30475a) #GenAI #Medium #Ruby
 * 2022-MM-DD [My Mac\u2019s battery on Google Cloud Monitoring \u2014 with SMS if its low](https://medium.com/google-cloud/my-macs-battery-on-google-cloud-monitoring-with-sms-if-its-low-a1ccd70485fe?source=rss-b5293b96912f------2)
 * 2022-02-13 [Canary Deployment on GCP with Cloud Deploy](https://medium.com/google-cloud/draft-canarying-on-gcp-with-cloud-deploy-91b3e4d0ee9a) #cicd #cloud_deploy #cloud_build #canary
 * 2022  [Setting a \u2605 Cloud Build trigger with Pulumi in  Python](https://medium.com/google-cloud/setting-cloudbuild-with-pulumi-in-python-330e8b54b2cf)
@@ -53,8 +59,20 @@ Videos:
 
 Traveling around the world (..) and delivering sessions on SRE, How Google does Software Development, ..
 
+**2023**
+
 * 2023-11-30 
+* 2023-11-08 "How to fail your SRE adoption (for Enterprises)" ([DevOpsDays Warsaw](https://devopsdays.pl/bio/#kontakt
+))
+* 2023-11-DD "Introduction to SRE" and "GenAI for dummies" at GDG Warszawa (Warsaw, Poland).
+* 2023-10-28 "Esperimenti con Vertex AI" (Italian) at Linux Day (Fabriano, Italy) https://pdp.linux.it/news/2005/linux-day-2023/
 * 2023-09-DD "George UX Conf": [Reimagining customer services with GenAI and multi-modal interaction](https://www.youtube.com/watch?v=WRNncVe5yJQ) (Erste Campus, Vienna, Austria) #UX #GenAI . Had ~300 people in the room and ~1500 remotely!
+
+**2022**
+
+* 2022-03-16 [Panel on SRE with Telia and Datadog](https://hopin.com/events/telia-company-google-cloud-datadog-sre-panel)
+* 2022-01-26 [How to fail your SRE adoption](https://gdg.community.dev/events/details/google-gdg-budapest-presents-how-to-fail-your-sre-adoption/] (GDG Budapest, remote) #SRE #Culture
+* 2022-03-18 [Intro to SRE](https://2022.incontrodevops.it/talks_speakers/index.html) Grusp, Bologna, Italy.
 
 ## Thanks
 
