@@ -22,11 +22,18 @@ I use `rbenv` for managing my local gems and *rubies*.
 
 ## My favorite gems
 
-### AI
+**AI**
 
 * **[LangchainRb](https://github.com/andreibondarev/langchainrb)**. That's right! Want to integrate Google Vertex AI or openai into your ruby apps? there you go!
   Andrei keeps a very thriving commmunity and I actually contributed two PRs to this project.
+* **[lolcat](https://github.com/busyloop/lolcat)**. I like to think that Ruby is a colorful language, and everything else is boring. Am I wrong? If I am, how come we don't have a `npm` equivalent of this gem?
 
+**Rails**
+
+* **ActiveAdmin** - for a cheap/simple admin page. Which also shows nicely my bkg jobs.
+* **devise**. For powerful yet easy-to-setup authentication.
+* [**acts-as-taggable-on**](https://github.com/mbleigh/acts-as-taggable-on) . I use itin EVERY projects. What life would be without tags? Note there are a couple of caveats which make its adoption not super easy.
+* **[ActsAsVotable](https://github.com/ryanto/acts_as_votable)** for votes and likes and lot of syntactic sugar.
 
 ## ActiveStorage
 
@@ -55,6 +62,10 @@ Some people think opposite to me and probably for large volumes it matters:
 * [Moving Jobs From DelayedJob to Sidekiq](https://github.com/forem/forem/issues/5305)
 * [DelayedJob or Sidekiq? Which should I use?](https://www.reddit.com/r/rails/comments/99x86q/delayedjob_or_sidekiq_which_should_i_use/)
 
+## History
+
+There are actually two gems for history
+* [PaperTrail](https://github.com/paper-trail-gem/paper_trail)
 
 ## Instrumentation
 
