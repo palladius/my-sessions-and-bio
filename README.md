@@ -37,7 +37,7 @@ Code proficiency:
 
 ## Articles
 
-Medium ([main page](https://medium.com/@palladiusbonton/) - RSS feed) Blog: 
+Medium ([main page](https://medium.com/@palladiusbonton/) - RSS feed) Blog:
 
 * 2023-12-12 **TBD** "Hey Gemini, explain me these pictures - in bash 🧑🏽‍💻" (coming soon!)
 * 2023-11-20 [Hey Bard, write a responsive Javascript Search Engine app for me..](https://medium.com/@palladiusbonton/hey-bard-write-a-responsive-javascript-search-engine-app-for-me-b2585e55385e)
@@ -51,21 +51,20 @@ Medium ([main page](https://medium.com/@palladiusbonton/) - RSS feed) Blog:
 
 Google Cloud Blog:
 
-* [Vodafone: A DevOps approach to AI/ML through cloud-native CI/CD pipelines](https://cloud.google.com/blog/products/devops-sre/how-vodafone-uses-cicd-to-speed-up-ml-pipelines) #MLOps 
+* [Vodafone: A DevOps approach to AI/ML through cloud-native CI/CD pipelines](https://cloud.google.com/blog/products/devops-sre/how-vodafone-uses-cicd-to-speed-up-ml-pipelines) #MLOps
 
 Videos:
 
 * [The Art of SLOs ](https://www.youtube.com/watch?v=E3ReKuJ8ewA) - My very first video on Google Cloud! #SRE #SLOs ([More on Art of SLOs](https://sre.google/resources/practices-and-processes/art-of-slos/))
 
 
-
-## Sessions 
+## Sessions
 
 Traveling around the world (..) and delivering sessions on SRE, How Google does Software Development, ..
 
 **2023**
 
-* 2023-11-30 
+* 2023-11-30
 * 2023-11-08 "How to fail your SRE adoption (for Enterprises)" ([DevOpsDays Warsaw](https://devopsdays.pl/bio/#kontakt
 ))
 * 2023-11-DD "Introduction to SRE" and "GenAI for dummies" at GDG Warszawa (Warsaw, Poland).

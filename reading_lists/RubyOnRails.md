@@ -10,11 +10,20 @@ Note I'm a Google Cloud employee, so my usage of some gems might be different fr
 Also I like to run my containers in `Cloud Run`, which means that I'll try to fit as much as I can
 into a single docker container, and run it the `LAMP` way (no Redis, igf possible and so on).
 
+## Ruby
+
+I use `rbenv` for managing my local gems and *rubies*.
+
 ## Rails
 
+* I use Rails 7.0. But I used them ~all, from 2,3,5,6,7 (yes I skipped the 4).
 
 ## My favorite gems
 
+### AI
+
+* **[LangchainRb](https://github.com/andreibondarev/langchainrb)**. That's right! Want to integrate Google Vertex AI or openai into your ruby apps? there you go!
+  Andrei keeps a very thriving commmunity and I actually contributed two PRs to this project.
 
 
 ## ActiveStorage
