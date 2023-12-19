@@ -1,7 +1,9 @@
 This wants to become my "Lessons Learnt" working with Rails.
 Of course my challenges might be different from yours, but I hope you can learn something from my mistakes.
 
-So this is a Reading list with something more :)
+So this is a Reading list with something more 😃
+
+Note that a better and more comprehensive version is here: **[awesome-ruby](https://github.com/markets/awesome-ruby)**
 
 ## About me
 
