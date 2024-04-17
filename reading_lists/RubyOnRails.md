@@ -7,12 +7,7 @@ Note that a better and more comprehensive version is here: **[awesome-ruby](http
 
 ## 💛 About me
 
-Note I'm a Google Cloud employee, so my usage of some gems might be different from most.
-
-Also I like to run my containers in `Cloud Run`, which means that I'll try to fit as much as I can
-into a single docker container, and run it the `LAMP` way (no Redis, igf possible and so on).
-
-More about me:
+Note I'm a Google Cloud employee, so my usage of some gems might be different from most. Also I like to run my containers in `Cloud Run`, which means that I'll try to fit as much as I can into a single docker container, and run it the `LAMP` way (no Redis, igf possible and so on). More about me:
 
 * [Medium articles](https://medium.com/@palladiusbonton)
 * https://ricc.rocks/ (Blog in Hugo, yes I cheated on Jekyll!)
@@ -86,7 +81,9 @@ There are actually two gems for history
 
 TODO
 
-# My Rails projects
+# My projects
+
+## Rails
 
 Public repos:
 
@@ -95,3 +92,8 @@ Public repos:
 Private:
 
 * `ror7-scubatracker`. (on private BB `gprojects:/rails/ror7-scubatracker/`)
+
+## Gems
+
+* https://rubygems.org/gems/ric (broken - sorry).
+* https://github.com/palladius/r Just taking a short name.
