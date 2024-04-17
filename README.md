@@ -37,7 +37,7 @@ Code proficiency:
 
 ## Articles
 
-Medium ([main page](https://medium.com/@palladiusbonton/) - RSS feed) Blog:
+Medium ([main page](https://medium.com/@palladiusbonton/) - [RSS feed](https://medium.com/feed/@palladiusbonton)) Blog:
 
 * 2023-12-12 **TBD** "Hey Gemini, explain me these pictures - in bash 🧑🏽‍💻" (coming soon!)
 * 2023-11-20 [Hey Bard, write a responsive Javascript Search Engine app for me..](https://medium.com/@palladiusbonton/hey-bard-write-a-responsive-javascript-search-engine-app-for-me-b2585e55385e)
@@ -61,6 +61,10 @@ Videos:
 ## Sessions
 
 Traveling around the world (..) and delivering sessions on SRE, How Google does Software Development, ..
+
+**2024**
+
+* 2024-04-12 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Las Vegas, 11 apr 24)" ([Cloud Next session](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [slides](https://docs.google.com/presentation/d/185g3-8f076446-23/edit?usp=sharing).
 
 **2023**
 
