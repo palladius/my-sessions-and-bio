@@ -6,8 +6,8 @@ Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 
 * [Google Cloud - Advocacy](https://cloud.google.com/developers/advocates/riccardo-carlesso).
 * [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
-* [Twitter](https://twitter.com/palladius)
-* [github](https://github.com/palladius)
+* 🐦 [Twitter](https://twitter.com/palladius)
+* 🐙 [github](https://github.com/palladius)
 
 ## Bio
 
@@ -62,13 +62,17 @@ Videos:
 
 Traveling around the world (..) and delivering sessions on SRE, How Google does Software Development, ..
 
+More info on my talks are in [talks](talks.md).
+
 **2024**
 
-* 2024-04-12 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Las Vegas, 11 apr 24)" ([Cloud Next session](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [slides](https://docs.google.com/presentation/d/185g3-8f076446-23/edit?usp=sharing).
+* 2024-05-31 "News Crawler via Langchain.RB and Gemini APIs" ([RubyDay, Verona](https://ti.to/grusp/rubyday-2024)) [Sessionize](https://sessionize.com/app/speaker/session/621013) [WIP].
+* 2024-05-29 "Software development with Google" ([CloudConf, Turin](https://2024.cloudconf.it/index.html))
+* 2024-04-12 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Las Vegas, 11 apr 24)" ([Cloud Next - Abstract](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [PDF Slides](https://assets.swoogo.com/uploads/3794522-661c3c8fe0cf9.pdf).
 
 **2023**
 
-* 2023-11-30
+* 2023-11-30 ""
 * 2023-11-08 "How to fail your SRE adoption (for Enterprises)" ([DevOpsDays Warsaw](https://devopsdays.pl/bio/#kontakt
 ))
 * 2023-11-DD "Introduction to SRE" and "GenAI for dummies" at GDG Warszawa (Warsaw, Poland).
@@ -83,4 +87,4 @@ Traveling around the world (..) and delivering sessions on SRE, How Google does 
 
 ## Thanks
 
-Inspired by my colleagues Kaz: https://github.com/kazunori279/my-sessions-and-bio
+Inspired by my colleague Kaz: https://github.com/kazunori279/my-sessions-and-bio
