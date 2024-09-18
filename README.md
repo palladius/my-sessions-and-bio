@@ -11,13 +11,18 @@ Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 
 ## Bio
 
-[WIP]
+Former network administrator, sysadmin, and Ruby on Rails developer, Riccardo has been in operations for 20+ years and
+still likes to spend time coding (better if Ruby). He loves engaging with customers and help them run their operations
+reliably and successfully in the cloud. Riccardo loves caipirinhas and 🍷 Amarone, playing 🎹 piano and 🏊🏻🚴🏿🏃‍♀️
+triathlons; he's been passionate about Mathematics since he was 4.
 
-Social enthusiastic SW Eng. Loves: travels (who doesn't?), maths, piano, cooking, Ruby, Google, DevOps, Linux, running, politics, Cloud, yellow, wine, grammar, tongues, SRE.
+He's in love with `Ruby`.
+
+Tags: #maths #piano #cooking #Ruby #Google #DevOps #Linux #running #politics #Cloud #yellow #wine #grammar #tongues #SRE
 
 ## Areas of expertise
 
-I've been in Operations for 20 years, as a Network Engineer (working in NOC).
+I've been in Operations for 20 years #as a Network Engineer (working in NOC).
 In Google I specialize on:
 
 * SRE (Site reliability Engineering)
@@ -31,9 +36,9 @@ Code proficiency:
 
 5. (AWESOME) Bash
 4. (GOOD) **Ruby**
-3. (AVERAGE) Python, Pulumi (in Python)
+3. (AVERAGE) `Python`, `Pulumi` (with Python because.. https://github.com/pulumi/pulumi/issues/132)
 2. (LOW) C, C++, Java, Go, Perl, PHP, Prolog, Terraform
-1. (BAD) Javascript/Typescript
+1. (BAD) Javascript/Typescript. I dream of a world where you can choose your own FE language and not stick to ****script.
 
 ## Articles
 
@@ -66,9 +71,13 @@ More info on my talks are in [talks](talks.md).
 
 **2024**
 
-* 2024-05-31 "News Crawler via Langchain.RB and Gemini APIs" ([RubyDay, Verona](https://ti.to/grusp/rubyday-2024)) [Sessionize](https://sessionize.com/app/speaker/session/621013) [WIP].
-* 2024-05-29 "Software development with Google" ([CloudConf, Turin](https://2024.cloudconf.it/index.html))
-* 2024-04-12 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Las Vegas, 11 apr 24)" ([Cloud Next - Abstract](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [PDF Slides](https://assets.swoogo.com/uploads/3794522-661c3c8fe0cf9.pdf).
+* 2024-11-DD "[News Crawler via Langchain.RB and Gemini APIs](https://sessionize.com/app/speaker/session/739236)" (Devfest, Pescara) [CfP](https://sessionize.com/devfest-pescara-2024/) #GenAI #Gemini #Ruby
+* 2024-10-12 "[News Crawler via Langchain.RB and Gemini APIs](https://sessionize.com/app/speaker/session/745608)" (Devfest, Modena) #GenAI #Gemini #Ruby
+* 2024-10-11 "[Dove l'SRE può andare storto](https://www.devsecopsday.it/talks_speakers/)" ([DevSecOps day, Bologna](https://www.devsecopsday.it/talks_speakers/)) #SRE
+* 2024-09-DD "[Workshop: Bring your Ruby app in the Cloud](https://2024.euruko.org/speakers/riccardo_carlesso)" (Euruko, Sarajevo) #GenAI #Gemini #Ruby
+* 2024-05-31 "News Crawler via Langchain.RB and Gemini APIs" ([RubyDay, Verona](https://ti.to/grusp/rubyday-2024)) [Sessionize](https://sessionize.com/app/speaker/session/621013) #GenAI #Gemini #Ruby
+* 2024-05-29 "Software development with Google" ([CloudConf, Turin](https://2024.cloudconf.it/index.html)) #Culture #SWE
+* 2024-04-12 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Las Vegas, 11 apr 24)" ([Cloud Next - Abstract](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [PDF Slides](https://assets.swoogo.com/uploads/3794522-661c3c8fe0cf9.pdf) #CloudDeploy #MLOps
 
 **2023**
 
