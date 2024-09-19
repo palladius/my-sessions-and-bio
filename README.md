@@ -95,12 +95,13 @@ More info on my talks are in [talks](talks.md).
 * 2023-11-08 "How to fail your SRE adoption (for Enterprises)" ([DevOpsDays, 🇵🇱Warsaw](https://devopsdays.pl/bio/#kontakt))
 * 2023-11-DD "Introduction to SRE" and "GenAI for dummies" at GDG Warszawa (🇵🇱Warsaw, Poland).
 * 2023-10-28 "Esperimenti con Vertex AI" (Italian) at Linux Day (🇮🇹Fabriano, Italy) https://pdp.linux.it/news/2005/linux-day-2023/
-* 2023-09-DD "George UX Conf": [Reimagining customer services with GenAI and multi-modal interaction](https://www.youtube.com/watch?v=WRNncVe5yJQ) (Erste Campus, 🇦🇹Vienna) #UX #GenAI . Had ~300 people in the room and ~1500 remotely!
+* 2023-09-19 [Reimagining customer services with GenAI and multi-modal interaction](https://www.youtube.com/watch?v=WRNncVe5yJQ) (George UX Conf, 🇦🇹Vienna) #UX #GenAI . Had ~300 people in the room and ~1500 remotely!
 
 **2022**
 
 * 2022-03-16 [Panel on SRE with Telia and Datadog](https://hopin.com/events/telia-company-google-cloud-datadog-sre-panel)
-* 2022-01-26 [How to fail your SRE adoption](https://gdg.community.dev/events/details/google-gdg-budapest-presents-how-to-fail-your-sre-adoption/] (GDG 🇭🇺Budapest, remote) #SRE #Culture **[video](https://www.youtube.com/watch?v=i96qBPyn2dw)**
+* 2022-01-26 [How to fail your SRE adoption](https://gdg.community.dev/events/details/google-gdg-budapest-presents-how-to-fail-your-sre-adoption/)
+  (GDG 🇭🇺Budapest, remote) #SRE #Culture **[video](https://www.youtube.com/watch?v=i96qBPyn2dw)**
 * 2022-03-18 [Intro to SRE](https://2022.incontrodevops.it/talks_speakers/index.html) (Grusp, 🇮🇹Bologna)
 
 ## Thanks
