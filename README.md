@@ -1,6 +1,7 @@
 # My sessions, Bio and public resources
 
 Self: https://github.com/palladius/my-sessions-and-bio
+Also copied on:
 
 An increasing trail of articles, sessions, demos, and so on.
 
@@ -10,6 +11,7 @@ Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 * [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
 * 🐦 [Twitter](https://twitter.com/palladius)
 * 🐙 [github](https://github.com/palladius)
+* Sessionize: https://sessionize.com/riccardo-carlesso
 
 ## Bio
 
