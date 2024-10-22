@@ -18,17 +18,6 @@ A simple app to search through all my projects, served on Cloud Run. Read the ar
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Not ready for production :)
 
 ## Puffin Tours (WIP)
