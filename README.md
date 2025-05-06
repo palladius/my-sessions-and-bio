@@ -7,11 +7,12 @@ An increasing trail of articles, sessions, demos, and so on.
 
 Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 
-* [g.dev/ricc](https://g.dev/ricc).
-* [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
+* 👨🏻‍💻 [g.dev/ricc](https://g.dev/ricc).
+* 🧑‍💼 [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
 * 🐦 [Twitter](https://twitter.com/palladius)
 * 🐙 [github](https://github.com/palladius)
-* Sessionize: https://sessionize.com/riccardo-carlesso
+* 🗣️ [Sessionize](https://sessionize.com/riccardo-carlesso)
+* ✍🏻 Blog: https://ricc.rocks/
 
 ## Bio
 
