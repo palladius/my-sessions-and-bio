@@ -7,7 +7,7 @@ An increasing trail of articles, sessions, demos, and so on.
 
 Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 
-* [Google Cloud - Advocacy](https://cloud.google.com/developers/advocates/riccardo-carlesso) [broken - WIP].
+* [g.dev/ricc](https://g.dev/ricc).
 * [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
 * 🐦 [Twitter](https://twitter.com/palladius)
 * 🐙 [github](https://github.com/palladius)
