@@ -4,6 +4,22 @@ I also have a private (for Googlers only): 📢 go/ricc-talks 🗣️
 
 ## 2025
 
+### SRE Gone Wrong: Top 7 Errors (and How to Avoid Them) (Turin, 26 Mar 25)
+
+* Session Link: https://2025.cloudconf.it/en/schedule.html
+* When: March 26.
+* Where: Turin, Italy
+* Event: CloudConf
+
+#### Abstract
+
+I've been talking to customers re their SRE adoption since 2019. Oftentimes, they struggled in their effort to apply the Google methodology within their company. In this talk Riccardo will first set an introduction to SRE, then try to explain what failures patterns he's observed (partly contained in Enterprise Roadmap to SRE report).
+Topics:
+- What SRE is.
+- What SRE is not.
+- Anti-patterns in SRE adoption
+- How to make it work for your company
+
 ## 2024
 
 ### Keynote: SRE Gone Wrong: Top 7 Errors (and How to Avoid Them) (Amsterdam, 21 Nov 24)

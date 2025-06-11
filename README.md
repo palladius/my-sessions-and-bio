@@ -82,7 +82,7 @@ More info on my talks are in [talks](talks.md).
 
 * 2025-09 TODO (Euruko,	🇵🇹Viana do Castelo)
 * 2025-05 TODO (Helvetic Ruby, 🇨🇭Geneva)
-* 2025-03 TODO (Cloud Conf, 🇮🇹Torino)
+* 2025-03-26 "[SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://2025.cloudconf.it/en/schedule.html)" ([Cloud Conf, 🇮🇹Torino](https://2025.cloudconf.it/))
 
 **2024**
 

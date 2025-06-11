@@ -1,5 +1,11 @@
 # Changelog
 
+## 2025-06-11 v1.2.0
+
+### Added
+- New talk to README.md and talks.md:
+  - (2025-03, Turin, Italy, SRE Gone Wrong: Top 7 Errors (and How to Avoid Them))
+
 ## 2025-06-11 v1.1.0
 
 ### Added
