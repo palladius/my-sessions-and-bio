@@ -12,6 +12,7 @@ Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 * 🐦 [Twitter](https://twitter.com/palladius)
 * 🐙 [github](https://github.com/palladius)
 * 🗣️ [Sessionize](https://sessionize.com/riccardo-carlesso)
+* 🗣️ [Ruby events](https://www.rubyevents.org/speakers/riccardo-carlesso)
 * ✍🏻 Blog: https://ricc.rocks/
 
 ## Bio
@@ -30,20 +31,20 @@ Tags: #maths #piano #cooking #Ruby #Google #DevOps #Linux #running #politics #Cl
 I've been in Operations for 20 years #as a Network Engineer (working in NOC).
 In Google I specialize on:
 
-* SRE (Site reliability Engineering)
-* How Google does Software Development, Culture, Teams, Operations.
-* GenAI (new!)
-* Ruby
+* **SRE** (Site reliability Engineering)
+* How **Google** does **Software Development**, **Culture**, Teams, **Operations**.
+* AI (mostly around Gemini)
+* **Ruby** (see my  activity in [rubyevents.org](https://www.rubyevents.org/speakers/riccardo-carlesso))
 * Pulumi
 * GCP foundations (Infra: GCE, "landing zones") and all the experience I matured in 7 years of Professional Services with big customers in DACH.
 
 Code proficiency:
 
-5. (AWESOME) Bash
-4. (GOOD) **Ruby**
+1. (AWESOME) Bash
+2. (GOOD) **Ruby**
 3. (AVERAGE) `Python`, `Pulumi` (with Python because.. https://github.com/pulumi/pulumi/issues/132)
-2. (LOW) C, C++, Java, Go, Perl, PHP, Prolog, Terraform
-1. (BAD) Javascript/Typescript. I dream of a world where you can choose your own FE language and not stick to ****script.
+4. (LOW) C, C++, Java, Go, Perl, PHP, Prolog, Terraform
+5. (BAD) Javascript/Typescript. I dream of a world where you can choose your own FE language and not stick to ****script.
 
 ## Articles
 
