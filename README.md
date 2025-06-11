@@ -69,7 +69,8 @@ Google Cloud Blog:
 
 Videos:
 
-* [The Art of SLOs ](https://www.youtube.com/watch?v=E3ReKuJ8ewA) - My very first video on Google Cloud! #SRE #SLOs ([More on Art of SLOs](https://sre.google.resources/practices-and-processes/art-of-slos/))
+* [Reimagining customer services with GenAI and multi-modal interaction](https://www.youtube.com/watch?v=WRNncVe5yJQ) (George UX Conf, 🇦🇹Vienna)
+* [The Art of SLOs ](https://www.youtube.com/watch?v=E3ReKuJ8ewA) - My very first video on Google Cloud! #SRE #SLOs ([More on Art of SLOs](https://sre.google/resources/practices-and-processes/art-of-slos/))
 
 
 ## Sessions
@@ -81,27 +82,26 @@ More info on my talks are in [talks](talks.md).
 **2025**
 
 * 2025-09 TODO (Euruko,	🇵🇹Viana do Castelo)
-* 2025-05 TODO (Helvetic Ruby, 🇨🇭Geneva)
-* 2025-03-26 "[SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://2025.cloudconf.it/en/schedule.html)" ([Cloud Conf, 🇮🇹Torino](https://2025.cloudconf.it/))
+* 2025-03-26 [SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://2025.cloudconf.it/en/schedule.html) ([Cloud Conf, 🇮🇹Torino](https://2025.cloudconf.it/))
 
 **2024**
 
-* 2024-11-21 "[Keynote: SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://sreday.com/2024-amsterdam/#modal-speaker-0)" ([SRE Day, 🇳🇱Amsterdam](https://sreday.com/2024-amsterdam/)) [CfP](https://www.papercall.io/sreday-2024-amsterdam) #SRE #Keynote #Culture
-* 2024-11-08 "[News Crawler via Langchain.RB and Gemini APIs](https://sessionize.com/app/speaker/session/739236)" (GDG Devfest, 🇮🇹Pescara) [CfP](https://sessionize.com/devfest-pescara-2024/) #GenAI #Gemini #Ruby
-* 2024-10-12 "[News Crawler via Langchain.RB and Gemini APIs](https://sessionize.com/app/speaker/session/745608)" (GDG Devfest, 🇮🇹Modena) #GenAI #Gemini #Ruby
-* 2024-10-11 "[Keynote: Dove l'SRE può andare storto](https://www.devsecopsday.it/talks_speakers/)" ([DevSecOps day, 🇮🇹Bologna](https://www.devsecopsday.it/talks_speakers/)) #SRE  #Keynote #Culture
+* 2024-11-21 [Keynote: SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://sreday.com/2024-amsterdam/#modal-speaker-0) ([SRE Day, 🇳🇱Amsterdam](https://sreday.com/2024-amsterdam/)) [CfP](https://www.papercall.io/sreday-2024-amsterdam) #SRE #Keynote #Culture
+* 2024-11-08 [News Crawler via Langchain.RB and Gemini APIs](https://sessionize.com/app/speaker/session/739236) (GDG Devfest, 🇮🇹Pescara) [CfP](https://sessionize.com/devfest-pescara-2024/) #GenAI #Gemini #Ruby
+* 2024-10-12 [News Crawler via Langchain.RB and Gemini APIs](https://sessionize.com/app/speaker/session/745608) (GDG Devfest, 🇮🇹Modena) #GenAI #Gemini #Ruby
+* 2024-10-11 [Keynote: Dove l'SRE può andare storto](https://www.devsecopsday.it/talks_speakers/) ([DevSecOps day, 🇮🇹Bologna](https://www.devsecopsday.it/talks_speakers/)) #SRE  #Keynote #Culture
 * 2024-09-17 **SRE Jumpstart** (GDG 🇭🇺Budapest, _remote_) #SRE #Culture (soon on Youtube)
-* 2024-09-11 "[Workshop: Bring your Ruby app in the Cloud](https://2024.euruko.org/speakers/riccardo_carlesso)" (Euruko, 🇧🇦Sarajevo) #GenAI #Gemini #Ruby #Keynote
-* 2024-08-21 "News Crawler via Langchain.RB and Gemini APIs" (Railshöck at Puzzle, 🇨🇭Zurich) #GenAI #Gemini #Ruby
-* 2024-05-31 "News Crawler via Langchain.RB and Gemini APIs" ([RubyDay, 🇮🇹Verona](https://2024.rubyday.it/talks_speakers/)) [Sessionize](https://sessionize.com/s/riccardo-carlesso/news-crawler-via-langchainrb-and-gemini-apis/80101) #GenAI #Gemini #Ruby
-* 2024-05-29 "Software development with Google" ([CloudConf, 🇮🇹Turin](https://2024.cloudconf.it/index.html)) #Culture #SWE
-* 2024-04-11 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Cloud Next, 🇺🇸Las Vegas)" ([Cloud Next - Abstract](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [PDF Slides](https://assets.swoogo.com/uploads/3794522-661c3c8fe0cf9.pdf) #CloudDeploy #MLOps
+* 2024-09-11 [Workshop: Bring your Ruby app in the Cloud](https://2024.euruko.org/speakers/riccardo_carlesso) (Euruko, 🇧🇦Sarajevo) #GenAI #Gemini #Ruby #Keynote
+* 2024-08-21 News Crawler via Langchain.RB and Gemini APIs (Railshöck at Puzzle, 🇨🇭Zurich) #GenAI #Gemini #Ruby
+* 2024-05-31 News Crawler via Langchain.RB and Gemini APIs ([RubyDay, 🇮🇹Verona](https://2024.rubyday.it/talks_speakers/)) [Sessionize](https://sessionize.com/s/riccardo-carlesso/news-crawler-via-langchainrb-and-gemini-apis/80101) #GenAI #Gemini #Ruby
+* 2024-05-29 Software development with Google ([CloudConf, 🇮🇹Turin](https://2024.cloudconf.it/index.html)) #Culture #SWE
+* 2024-04-11 Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Cloud Next, 🇺🇸Las Vegas)" ([Cloud Next - Abstract](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [PDF Slides](https://assets.swoogo.com/uploads/3794522-661c3c8fe0cf9.pdf) #CloudDeploy #MLOps
 
 **2023**
 
-* 2023-11-08 "How to fail your SRE adoption (for Enterprises)" ([DevOpsDays, 🇵🇱Warsaw](https://devopsdays.pl/bio/#kontakt))
-* 2023-11-DD "Introduction to SRE" and "GenAI for dummies" at GDG Warszawa (🇵🇱Warsaw, Poland).
-* 2023-10-28 "Esperimenti con Vertex AI" (Italian) at Linux Day (🇮🇹Fabriano, Italy) https://pdp.linux.it/news/2005/linux-day-2023/
+* 2023-11-08 How to fail your SRE adoption (for Enterprises) ([DevOpsDays, 🇵🇱Warsaw](https://devopsdays.pl/bio/#kontakt))
+* 2023-11-DD Introduction to SRE and GenAI for dummies at GDG Warszawa (🇵🇱Warsaw, Poland).
+* 2023-10-28 Esperimenti con Vertex AI (Italian) at Linux Day (🇮🇹Fabriano, Italy) https://pdp.linux.it/news/2005/linux-day-2023/
 * 2023-09-19 [Reimagining customer services with GenAI and multi-modal interaction](https://www.youtube.com/watch?v=WRNncVe5yJQ) (George UX Conf, 🇦🇹Vienna) #UX #GenAI . Had ~300 people in the room and ~1500 remotely!
 
 **2022**
