@@ -81,8 +81,9 @@ More info on my talks are in [talks](talks.md).
 
 **2025**
 
-* 2025-09 TODO (Euruko,	🇵🇹Viana do Castelo)
-* 2025-03-26 [SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://2025.cloudconf.it/en/schedule.html) ([Cloud Conf, 🇮🇹Torino](https://2025.cloudconf.it/))
+* 2025-10 [Agents on a Plane: A Deep Dive into Building a Real-Time Travel Agent ✈️](https://sessionize.com/app/speaker/session/953469) ([Codemotion, Milan](https://conferences.codemotion.com/milan2025/cfs/)) - *Proposed*.
+* 2025-09 A workshop on Create a responsive (Euruko,	🇵🇹Viana do Castelo)  - *Proposed*.
+* 2025-03-26 **[SRE Gone Wrong: Top 7 Errors (and How to Avoid Them)](https://2025.cloudconf.it/en/schedule.html)** ([Cloud Conf, 🇮🇹Torino](https://2025.cloudconf.it/))
 
 **2024**
 

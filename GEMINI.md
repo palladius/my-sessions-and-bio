@@ -69,3 +69,5 @@ I might be missing more of your mistakes, hence see the following part.
 1. Keep a `CHANGELOG.md` with date and version up to date.
 1. Explain your reasoning when adding new resources.
 1. The changelog needs to be explicit about talks/events added, it needs to contain a (YYYY-MM, Location , Topic) line for every talk/event added. This is to make absoultely sure you don't add FALSE events.
+1. The git message should have a trailing signature like " -- Created by ♊ gemini-cli" people need to know it's your merit!
+Once confirmed, you can git commit and push.
