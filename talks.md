@@ -2,7 +2,70 @@ This page contains the title of my talks by date, particularly the ones I can't 
 
 I also have a private (for Googlers only): 📢 go/ricc-talks 🗣️
 
+## 2025
+
 ## 2024
+
+### Keynote: SRE Gone Wrong: Top 7 Errors (and How to Avoid Them) (Amsterdam, 21 Nov 24)
+
+* Session Link: https://sreday.com/2024-amsterdam/#modal-speaker-0
+* When: November 21.
+* Where: Amsterdam, Netherlands
+* Event: SRE Day
+
+### News Crawler via Langchain.RB and Gemini APIs (Pescara, 8 Nov 24)
+
+* Session Link: https://sessionize.com/app/speaker/session/739236
+* When: November 8.
+* Where: Pescara, Italy
+* Event: GDG Devfest
+
+### News Crawler via Langchain.RB and Gemini APIs (Modena, 12 Oct 24)
+
+* Session Link: https://sessionize.com/app/speaker/session/745608
+* When: October 12.
+* Where: Modena, Italy
+* Event: GDG Devfest
+
+### Keynote: Dove l'SRE può andare storto (Bologna, 11 Oct 24)
+
+* Session Link: https://www.devsecopsday.it/talks_speakers/
+* When: October 11.
+* Where: Bologna, Italy
+* Event: DevSecOps day
+
+### SRE Jumpstart (Budapest, 17 Sep 24)
+
+* When: September 17.
+* Where: Budapest, Hungary (remote)
+* Event: GDG Budapest
+
+### Workshop: Bring your Ruby app in the Cloud (Sarajevo, 11 Sep 24)
+
+* Session Link: https://2024.euruko.org/speakers/riccardo_carlesso
+* When: September 11.
+* Where: Sarajevo, Bosnia and Herzegovina
+* Event: Euruko 2024 ([speakers](https://2024.euruko.org/all_speakers/))
+
+### News Crawler via Langchain.RB and Gemini APIs (Zurich, 21 Aug 24)
+
+* When: August 21.
+* Where: Zurich, Switzerland
+* Event: Railshöck at Puzzle
+
+### News Crawler via Langchain.RB and Gemini APIs (Verona, 31 May 24)
+
+* Session Link: https://2024.rubyday.it/talks_speakers/
+* When: May 31.
+* Where: Verona, Italy
+* Event: RubyDay
+
+### Software development with Google (Turin, 29 May 24)
+
+* Session Link: https://2024.cloudconf.it/index.html
+* When: May 29.
+* Where: Turin, Italy
+* Event: CloudConf
 
 ### Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Las Vegas, 11 apr 24)
 

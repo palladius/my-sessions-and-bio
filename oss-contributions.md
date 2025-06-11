@@ -12,3 +12,8 @@ Also contributed to the OpenAI-only Assistant and spawned a Gemini version here:
 
 * Original: https://github.com/patterns-ai-core/ecommerce-ai-assistant-demo
 * Gemini version: https://github.com/palladius/ecommerce-ai-assistant-demo-gemini
+
+## Other contributions
+
+* [rubyevents/rubyevents](https://github.com/rubyevents/rubyevents/graphs/contributors) Ruby events
+* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) Best AI CLI ever!

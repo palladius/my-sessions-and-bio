@@ -50,7 +50,10 @@ Code proficiency:
 
 Medium ([main page](https://medium.com/@palladiusbonton/) - [RSS feed](https://medium.com/feed/@palladiusbonton)) Blog:
 
-* 2023-12-12 **TBD** "Hey Gemini, explain me these pictures - in bash 🧑🏽‍💻" (coming soon!)
+* 2024-02-05 [Autotranslate my Hugo blog with Gemini](https://ricc.rocks/en/blog/autotranslate-my-hugo-blog-with-gemini/)
+* 2024-01-23 [A deep dive in Cloud Run for Rails](https://ricc.rocks/en/blog/a-deep-dive-in-cloud-run-for-rails/)
+* 2024-01-12 [My 2023 in review](https://ricc.rocks/en/blog/my-2023-in-review/)
+* 2023-12-29 [Hey Gemini, explain me these pictures - in bash](https://ricc.rocks/en/blog/hey-gemini-explain-me-these-pictures-in-bash/)
 * 2023-11-20 [Hey Bard, write a responsive Javascript Search Engine app for me..](https://medium.com/@palladiusbonton/hey-bard-write-a-responsive-javascript-search-engine-app-for-me-b2585e55385e)
 * 2023-11-16 [Automated insights on Medium articles with GenAI and Ruby!
 ](https://blog.devops.dev/parse-medium-articles-with-genai-and-add-some-fun-02fe9d30475a) #GenAI #Medium #Ruby
@@ -66,7 +69,7 @@ Google Cloud Blog:
 
 Videos:
 
-* [The Art of SLOs ](https://www.youtube.com/watch?v=E3ReKuJ8ewA) - My very first video on Google Cloud! #SRE #SLOs ([More on Art of SLOs](https://sre.google/resources/practices-and-processes/art-of-slos/))
+* [The Art of SLOs ](https://www.youtube.com/watch?v=E3ReKuJ8ewA) - My very first video on Google Cloud! #SRE #SLOs ([More on Art of SLOs](https://sre.google.resources/practices-and-processes/art-of-slos/))
 
 
 ## Sessions
@@ -90,7 +93,7 @@ More info on my talks are in [talks](talks.md).
 * 2024-09-17 **SRE Jumpstart** (GDG 🇭🇺Budapest, _remote_) #SRE #Culture (soon on Youtube)
 * 2024-09-11 "[Workshop: Bring your Ruby app in the Cloud](https://2024.euruko.org/speakers/riccardo_carlesso)" (Euruko, 🇧🇦Sarajevo) #GenAI #Gemini #Ruby #Keynote
 * 2024-08-21 "News Crawler via Langchain.RB and Gemini APIs" (Railshöck at Puzzle, 🇨🇭Zurich) #GenAI #Gemini #Ruby
-* 2024-05-31 "News Crawler via Langchain.RB and Gemini APIs" ([RubyDay, 🇮🇹Verona](https://ti.to/grusp/rubyday-2024)) [Sessionize](https://sessionize.com/app/speaker/session/621013) #GenAI #Gemini #Ruby
+* 2024-05-31 "News Crawler via Langchain.RB and Gemini APIs" ([RubyDay, 🇮🇹Verona](https://2024.rubyday.it/talks_speakers/)) [Sessionize](https://sessionize.com/s/riccardo-carlesso/news-crawler-via-langchainrb-and-gemini-apis/80101) #GenAI #Gemini #Ruby
 * 2024-05-29 "Software development with Google" ([CloudConf, 🇮🇹Turin](https://2024.cloudconf.it/index.html)) #Culture #SWE
 * 2024-04-11 "Goodbye, deployment headaches: Cloud Deploy and Vertex AI unite (Cloud Next, 🇺🇸Las Vegas)" ([Cloud Next - Abstract](https://cloud.withgoogle.com/next?session=DEV302)) - [video](https://www.youtube.com/watch?v=_NlGk9Ao_oA) - [PDF Slides](https://assets.swoogo.com/uploads/3794522-661c3c8fe0cf9.pdf) #CloudDeploy #MLOps
 
