@@ -8,12 +8,12 @@ An increasing trail of articles, sessions, demos, and so on.
 Self: go/ricc-gh-sessions - https://github.com/palladius/my-sessions-and-bio
 
 * 👨🏻‍💻 [g.dev/ricc](https://g.dev/ricc).
-* 🧑‍💼 [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
+* 💼 [Linkedin](https://www.linkedin.com/in/riccardocarlesso/)
 * 🐦 [Twitter](https://twitter.com/palladius)
 * 🐙 [github](https://github.com/palladius)
 * 🗣️ [Sessionize](https://sessionize.com/riccardo-carlesso)
-* 🗣️ [Ruby events](https://www.rubyevents.org/speakers/riccardo-carlesso)
-* ✍🏻 Blog: https://ricc.rocks/
+* ♦️ [Ruby events](https://www.rubyevents.org/speakers/riccardo-carlesso)
+* 🧑‍💼 Blog: https://ricc.rocks/
 
 ## Bio
 
@@ -22,9 +22,9 @@ still likes to spend time coding (better if Ruby). He loves engaging with custom
 reliably and successfully in the cloud. Riccardo loves caipirinhas and 🍷 Amarone, playing 🎹 piano and 🏊🏻🚴🏿🏃‍♀️
 triathlons; he's been passionate about Mathematics since he was 4.
 
-He's in love with `Ruby`.
+He's in love with `Ruby`, coming from Basic > Pascal > C > Bash > Java > Prolog > LISP > C++ > Perl > Ruby > Python > Go (in chronological order).
 
-Tags: #maths #piano #cooking #Ruby #Google #DevOps #Linux #running #politics #Cloud #yellow #wine #grammar #tongues #SRE
+Tags: `#maths #piano #cooking #Ruby #Google #DevOps #Linux #running #politics #Cloud #yellow #wine #grammar #tongues #SRE`
 
 ## Areas of expertise
 

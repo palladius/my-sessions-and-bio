@@ -48,3 +48,7 @@ Check for these two pages and make sure my medium article in the README are curr
 ## ruby scraping
 
 If what you see is part of Ruby / rails activity, make sure it appears here: https://www.rubyevents.org/speakers/riccardo-carlesso
+
+## Blog scraping
+
+When scraping my blog (https://ricc.rocks/) make sure to only extract work-related article, like Google Cloud or Gemini article. Not articles on food, sport or family.
