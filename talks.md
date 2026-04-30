@@ -2,6 +2,20 @@ This page contains the title of my talks by date, particularly the ones I can't 
 
 I also have a private (for Googlers only): 📢 go/ricc-talks 🗣️
 
+## 2026
+
+### Stop Grepping, Start Reasoning: Skill-Based Agentic SRE 🚀 (Milan, TBD 2026)
+
+* Session Link: https://sessionize.com/app/speaker/session/1222188
+* Event Link: https://sessionize.com/codemotion-milan-26
+* When: TBD (Milan 2026)
+* Where: Milan, Italy
+* Event: Codemotion Milan 2026
+
+#### Abstract
+
+Let’s be honest: debugging production at scale is manual labor. 🫠 At Google, we decided making SREs act like human search engines was a bug, not a feature. Enter the Agentic SRE Extension—a skill-based framework that lives in your terminal and knows its way around Kubernetes. 🚀 In this deep dive, I’ll show you how we use modular skills and MCP to chain diagnostic tools, analyze metric regressions, and execute safe mitigations without "deleted production" anxiety. 🔥 We’ll dissect the "Outage Investigator" agent's logic loop, see it draft a technical postmortem in seconds, and discuss why we built this as a portable framework whose skills can be leveraged by any modern AI harness. You’ll leave with the code to wire up your own Kubernetes stack and let the agent's skills do the heavy lifting while you drink espresso. ☕️ No fluff, no 101s. Just AI agents, specialized skills, and less toil.
+
 ## 2025
 
 ### SRE Gone Wrong: Top 7 Errors (and How to Avoid Them) (Turin, 26 Mar 25)
